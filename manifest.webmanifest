@@ -1,0 +1,84 @@
+{
+  "name": "BIA web",
+  "short_name": "BIA web",
+  "id": "cz.web.BIA",
+  "description": "BIA web",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "20x20"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "29x29"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "36x36"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "40x40"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "48x48"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "50x50"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "57x57"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "58x58"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "60x60"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "72x72"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "76x76"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "80x80"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "87x87"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "96x96"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "100x100"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "114x114"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "120x120"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "144x144"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "152x152"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "167x167"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "180x180"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "192x192"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "512x512"
+      },{
+        "src": "730f3bd796c8d70281b060e4e407fc7a120f15ecfaba6105fb1b8e560773c559-boyz in action LOGO.jpg",
+        "sizes": "1024x1024"
+      }]
+}
